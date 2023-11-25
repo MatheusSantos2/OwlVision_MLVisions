@@ -14,9 +14,9 @@ O OwlVision é o projeto de conclusão de curso que foi divido em três reposito
 
 ![Alt text](image-1.png)
 
-### 2.2. Mapa de Profundidade
+### 2.2. Mapa de Profundidade com reprojeção
 
-![Alt text](image.png)
+![Alt text](image-2.png)
 
 ## 3. Referências de Projeto
 
