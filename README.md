@@ -1,6 +1,7 @@
 # OwlVision_MLVisions
 
 ## 1. Introdução
+
 O OwlVision é o projeto de conclusão de curso que foi divido em três repositorios: 
 
     * OwlVision_AppAndroid : Aplicativo android com função de captura de imagens, interpretação das imagens e geração de trajetórias, desenvolvido majoritariamente em Java.
@@ -11,10 +12,14 @@ O OwlVision é o projeto de conclusão de curso que foi divido em três reposito
 
 ### 2.1. Segmentação Semantica
 
-    ![Alt text](image-1.png)
+![Alt text](image-1.png)
 
 ### 2.2. Mapa de Profundidade
 
-    ![Alt text](image.png)
+![Alt text](image.png)
 
 ## 3. Referências de Projeto
+
+https://github.com/nianticlabs/monodepth2
+https://www.kaggle.com/code/oluwatobiojekanmi/carla-image-semantic-segmentation-with-u-net/input
+https://www.linkedin.com/pulse/self-supervised-monocular-depth-estimation-santosh-sawant/?trackingId=x%2FLmRxJVRNKyh8PEOdq4lA%3D%3D 
