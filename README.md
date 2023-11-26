@@ -8,7 +8,7 @@ O OwlVision é o projeto de conclusão de curso que foi divido em três reposito
     * OwlVision_MLVisions: Conjunto de pipelines de processamento de imagens, como por exemplo, pipeline de geração dos modelos de estimação de profundidade e segmentação semantica, também a geração dos parametros intrinsecos da camera e outras pipelines auxiliares.
     * OwlVision_VehicleController: Serviço que recebe os dados de trajetória e faz o controle do veiculo, atráves dos atuardores (motores).
    
-## 2. Resultado dos Modelos
+## 2. Resultado
 
 ### 2.1. Segmentação Semantica
 
@@ -17,6 +17,14 @@ O OwlVision é o projeto de conclusão de curso que foi divido em três reposito
 ### 2.2. Mapa de Profundidade com reprojeção
 
 ![Alt text](image-2.png)
+
+### 2.3. Calibração da Câmera
+
+![Alt text](image-3.png)
+
+### 2.4. Validação dos Dados de Posição e Velocidade
+
+![Alt text](image-4.png)
 
 ## 3. Referências de Projeto
 
