@@ -26,8 +26,9 @@ O OwlVision é o projeto de conclusão de curso que foi divido em três reposito
 
 ![Alt text](image-4.png)
 
-## 3. Referências de Projeto
+## 3. Referências de Repositorio
 
 https://github.com/nianticlabs/monodepth2
 https://www.kaggle.com/code/oluwatobiojekanmi/carla-image-semantic-segmentation-with-u-net/input
 https://www.linkedin.com/pulse/self-supervised-monocular-depth-estimation-santosh-sawant/?trackingId=x%2FLmRxJVRNKyh8PEOdq4lA%3D%3D 
+http://robots.stanford.edu/cs223b04/JeanYvesCalib/
