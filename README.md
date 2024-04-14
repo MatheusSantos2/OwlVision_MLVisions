@@ -22,10 +22,6 @@ O OwlVision é o projeto que foi divido em três repositorios:
 
 ![Alt text](image-3.png)
 
-### 2.4. Validação dos Dados de Posição e Velocidade
-
-![Alt text](image-4.png)
-
 ## 3. Referências de Repositorio
 
 https://github.com/nianticlabs/monodepth2
